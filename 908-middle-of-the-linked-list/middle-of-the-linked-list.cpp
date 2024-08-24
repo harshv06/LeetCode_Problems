@@ -19,10 +19,10 @@ public:
             return head->next;
         }
 
-        ListNode* fast=head->next;
+        ListNode* fast=head;
         ListNode* slow=head;
 
-        while(fast!=nullptr){
+        while(fast!=nullptr && fast->next!=nullptr){
             fast=fast->next;
             if(fast!=nullptr){
                 fast=fast->next;
