@@ -6,7 +6,8 @@ public:
         for(int i=0;i<nums.size();i++){
             if(nums[i]<0){ans[negative]=nums[i];
                 negative+=2;
-            }else{
+            }
+            if(nums[i]>0){
                 ans[pos]=nums[i];
                 pos+=2;
             }
