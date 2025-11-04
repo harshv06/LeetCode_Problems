@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshv06/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+| [0344-reverse-string](https://github.com/harshv06/LeetCode_Problems/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/harshv06/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/harshv06/LeetCode_Problems/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
