@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harshv06/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/harshv06/LeetCode_Problems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
