@@ -43,4 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/harshv06/LeetCode_Problems/tree/master/0202-happy-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/harshv06/LeetCode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/harshv06/LeetCode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/harshv06/LeetCode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
