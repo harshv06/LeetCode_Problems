@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshv06/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/harshv06/LeetCode_Problems/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshv06/LeetCode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshv06/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
