@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/harshv06/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/harshv06/LeetCode_Problems/tree/master/0040-combination-sum-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/harshv06/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/harshv06/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harshv06/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/harshv06/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/harshv06/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshv06/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harshv06/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshv06/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/harshv06/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshv06/LeetCode_Problems/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/harshv06/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
