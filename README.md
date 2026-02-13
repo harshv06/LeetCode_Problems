@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshv06/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/harshv06/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/harshv06/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshv06/LeetCode_Problems/tree/master/0202-happy-number) |
@@ -39,10 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshv06/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshv06/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshv06/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/harshv06/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/harshv06/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/harshv06/LeetCode_Problems/tree/master/0344-reverse-string) |
