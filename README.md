@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/harshv06/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/harshv06/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/harshv06/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/harshv06/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/harshv06/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshv06/LeetCode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshv06/LeetCode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/harshv06/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/harshv06/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshv06/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshv06/LeetCode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harshv06/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/harshv06/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/harshv06/LeetCode_Problems/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/harshv06/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
