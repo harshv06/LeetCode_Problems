@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harshv06/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshv06/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshv06/LeetCode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshv06/LeetCode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshv06/LeetCode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
