@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/harshv06/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/harshv06/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshv06/LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshv06/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshv06/LeetCode_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshv06/LeetCode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/harshv06/LeetCode_Problems/tree/master/0043-multiply-strings) |
 | [0344-reverse-string](https://github.com/harshv06/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshv06/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshv06/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshv06/LeetCode_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshv06/LeetCode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshv06/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Recursion
 |  |
 | ------- |
@@ -163,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/harshv06/LeetCode_Problems/tree/master/0128-longest-consecutive-sequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshv06/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshv06/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
