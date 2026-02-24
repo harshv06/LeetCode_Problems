@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/harshv06/LeetCode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/harshv06/LeetCode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/harshv06/LeetCode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3606-coupon-code-validator](https://github.com/harshv06/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshv06/LeetCode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/harshv06/LeetCode_Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshv06/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshv06/LeetCode_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3606-coupon-code-validator](https://github.com/harshv06/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 | [3719-longest-balanced-subarray-i](https://github.com/harshv06/LeetCode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Sliding Window
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/harshv06/LeetCode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/harshv06/LeetCode_Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshv06/LeetCode_Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3606-coupon-code-validator](https://github.com/harshv06/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/harshv06/LeetCode_Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/harshv06/LeetCode_Problems/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/harshv06/LeetCode_Problems/tree/master/0169-majority-element) |
+| [3606-coupon-code-validator](https://github.com/harshv06/LeetCode_Problems/tree/master/3606-coupon-code-validator) |
 ## Counting
 |  |
 | ------- |
